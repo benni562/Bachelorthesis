@@ -9,6 +9,8 @@ import queue
 import threading
 import copy
 
+#einfachmal einen String hinzufügen
+
 #The Goal is to create a Dataset to train a Neural Network.
 #OPCUA Server Class. Reads an CSV file Containing All available Images to the EIBA Project.
 #And loads them in a balanced way to into an image queue ready to be rated.
